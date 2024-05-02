@@ -11,9 +11,10 @@ The sequences with lengths of 21, 31, 41, 51, and 61 amino acids have been uploa
 * numpy == 1.21.5
 
 ## Usage
-* test_fasta: a fasta file for test samples (the sequence length must exceed 21 amino acids)
+* test_fasta: a fasta file for test samples (the sequence length must exceed 21 amino acids).
 * decay: The decay coefficient a for the positional weights of amino acids in a protein sequence has a reasonable range of 0 to 0.09.
-* out_dir: The folder name for output file
+* out_dir: The folder name for output file.
+
 For example:
 ```bash
 python main.py -decay 0.02 -test_fasta test.fasta -out_dir output
