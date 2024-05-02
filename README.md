@@ -1,5 +1,5 @@
 # DLBWE-Cys: A Deep-Learning-Based Tool for Identifying Cysteine S-Carboxyethylated Sites Using Binary-Weight Encoding
-In this study, we developed a new deep learning model, DLBWE-Cys, which integrates CNN, BiLSTM, Bahdaba attention mechanisms and a fully connected neural network (FNN), using Binary-Weight en-coding specifically designed for the accurate identification of cysteine S-carboxyethylated sites.
+In this study, we developed a new deep learning model, DLBWE-Cys, which integrates CNN, BiLSTM, Bahdaba attention mechanisms and a fully connected neural network (FNN), using Binary-Weight encoding specifically designed for the accurate identification of cysteine S-carboxyethylated sites.
 
 ## Dataset
 The sequences with lengths of 21, 31, 41, 51, and 61 amino acids have been uploaded to the `data`, including the training dataset and the independent test dataset.
