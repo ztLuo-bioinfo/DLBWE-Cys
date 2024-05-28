@@ -4,8 +4,8 @@ In this study, we developed a new deep learning model, DLBWE-Cys, which integrat
 ## Dataset
 The sequences with lengths of 21, 31, 41, 51, and 61 amino acids have been uploaded to the `data`, including the training dataset and the independent test dataset.
 
-## Requuirements
-* python == 37.11
+## Requirements
+* python == 3.7.11
 * pytorch == 1.6.0 + cuda == 10.1
 * pandas == 1.1.0
 * numpy == 1.21.5
